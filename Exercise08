@@ -1,23 +1,4 @@
 <!DOCTYPE html>
-<html lang="zh-Hant">
-<head>
-    <meta charset="UTF-8">
-    <title>Iframe 練習</title>
-    <style>
-        /* 使用 CSS 移除邊框 */
-        .no-border-iframe {
-            border: none;
-        }
-    </style>
-</head>
-<body>
-
-    <iframe 
-        src="https://zh.wikipedia.org/zh-tw/Wikipedia:%E9%A6%96%E9%A1%B5" 
-        width="500" 
-        height="500" 
-        class="no-border-iframe">
-    </iframe>
-
-</body>
+<html>
+<iframe src="https://www.youtube.com/" width="500" height="500" style="border:none;"></iframe>
 </html>
