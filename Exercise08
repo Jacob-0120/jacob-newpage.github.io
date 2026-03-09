@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Iframe 範例</h2>
+
+<iframe src="https://www.w3schools.com" width="500" height="500" style="border:none;"></iframe>
+
+</body>
+</html>
